@@ -1,0 +1,8 @@
+PulseLab GUI redesign
+
+The original model, dataset, Flask routes, and prediction logic are preserved. The visual redesign changes the template branding/copy, stylesheet, and ECG accent colors only. All DOM IDs used by the existing JavaScript were preserved.
+
+Run: python app.py
+Open: http://127.0.0.1:5000
+
+Educational-use disclaimer is displayed in the interface. The ML model outputs have not been clinically validated.
